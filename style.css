@@ -99,23 +99,27 @@ img {
 }
 
 .text-xl {
-    font-size: 1.7rem;
+    font-size: 1.75rem;
 }
 
 .text-lg {
-    font-size: 1.5rem;
+    font-size: 1.6rem;
 }
 
 .text-mid {
-    font-size: 1.2rem;
+    font-size: 1.45rem;
     margin: -20px 0px 0px 0px;
 }
 
 .text-sm {
-    font-size: 0.98rem;
+    font-size: 1.3rem;
 }
 
 .text-xs {
+    font-size: 1.15rem;
+}
+
+.footer-text {
     font-size: 0.78rem;
 }
 
@@ -124,13 +128,13 @@ img {
 .list-md {
     list-style-type: square;
     padding: 0px 15px;
-    font-size: 1.2rems;
+    font-size: 1.3rems;
 }
 
 .list-sm {
     list-style-type: 1;
     padding: 0px 15px;
-    font-size: 1rem;
+    font-size: 1.1rem;
 }
 
 /* Footer */
